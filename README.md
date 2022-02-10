@@ -4,7 +4,8 @@
 <h5>Прототип в Figma:</h5>
 https://www.figma.com/file/j6k3djL1EfeSs7aVAkSp2Q/Module_1(Chat)?node-id=0%3A1
 <br>
-
+<h5>Домен в Netlify</h5>
+https://62059f758a3cbe39d6ddcd29--nostalgic-einstein-4ad06f.netlify.app
 <h5>Реализованные статические страницы:</h5>
 <ul>
   <li>/pages/auth/login/login.html</li>
