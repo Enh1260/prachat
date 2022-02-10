@@ -1,5 +1,5 @@
 # prachat
-<h1>Practic Chat<h1>
+<h1>Practic Chat</h1>
 
 Прототип в Figma:
 https://www.figma.com/file/j6k3djL1EfeSs7aVAkSp2Q/Module_1(Chat)?node-id=0%3A1
